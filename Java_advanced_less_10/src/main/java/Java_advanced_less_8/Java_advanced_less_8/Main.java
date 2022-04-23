@@ -1,6 +1,6 @@
 package Java_advanced_less_8.Java_advanced_less_8;
 
-
+/**Злиття віток*/
 
 public class Main {
 
